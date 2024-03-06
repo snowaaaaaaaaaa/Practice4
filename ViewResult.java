@@ -42,7 +42,7 @@ public class ViewResult implements View, Serializable {
 
     @Override
     public void viewInit() {
-        <>?
+        
     }
 
     public void viewSave() throws IOException {
